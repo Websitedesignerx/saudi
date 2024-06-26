@@ -41,7 +41,7 @@
 } */
 
 body {
-  /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(253, 187, 45, 0) 70%), url('../img/reflectlg.jpg'); */
+  /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(253, 187, 45, 0) 70%), url('../img/SAUDIlg.jpg'); */
   /* background-size: calc(120%); */
   /* background-position: 0 0, 50%; */
   background-position: center;
@@ -231,12 +231,12 @@ margin-bottom: 50px;
 #hero h4 {
   text-shadow: 0 0 8px black;
 }
-
+H
 body {
 
    font-family: "Bitter", serif;
   color: #ffffff;
-  background-color: #da6838;
+  background-color: #c68f60;
   margin: 0;
   padding: 0;
   overflow-x: hidden !important;
@@ -1328,7 +1328,7 @@ background-repeat: no-repeat;
 
 #about {
   /* background-color: rgb(255, 255, 255); */
-  background-color: #da6838;
+  background-color: #c68f60;
 
 }
 
@@ -1772,13 +1772,13 @@ background-repeat: no-repeat;
   width: 100%;
   margin: auto;
   /* height: 1000px; */
-  background-color: #da6838;
+  background-color: #c68f60;
   /* padding-left: 20px;
   padding-right: 20px;
 
   
  */
- /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(253, 187, 45, 0) 70%), url('../img/reflectlg.jpg');
+ /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(253, 187, 45, 0) 70%), url('../img/SAUDIlg.jpg');
 height: 1000px; */
 
 
@@ -1794,7 +1794,7 @@ height: 1000px; */
   /* background: radial-gradient(circle, rgba(0,0,0,0.11257002801120453) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%)
  ,    url('../img/forestbg4.jpg'); */
   /* background-image: url(../img/amflag.gif); */
-  /* background-image: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(253, 187, 45, 0) 70%), url('../img/reflectlg.jpg'); */
+  /* background-image: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(253, 187, 45, 0) 70%), url('../img/SAUDIlg.jpg'); */
 /* background-position: calc(90%)!important; */
   background-repeat: no-repeat;
   
